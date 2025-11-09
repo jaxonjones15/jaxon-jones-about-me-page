@@ -1,0 +1,42 @@
+#phred {
+    font-weight: bold;
+    
+
+}
+em {
+    color: orange;
+        }
+.ferb
+{
+    color: green
+}
+
+h2 {
+    text-shadow: 2px 2px 5px lightblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+body {
+    background-color: lightgoldenrodyellow; /* light lavender background */
+    background-image: url("images/istockphoto-912159594-612x612.jpg");
+    background-size: cover;
+    color: #222;               /* dark gray text */
+    font-family: "Segoe UI", Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2em;
+}
+.itll_last_longer {
+    display: block;
+    margin: 1em auto;
+    width: 15em;
+    border-radius: 15px; /* rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); /* soft shadow */
+}
+.highlight {
+    background-color: white;  /* white background just behind the text */
+    border: 3px solid black; 
+    margin: 2em auto;
+    padding: 1em 2em 1em 2em;  
+}
+.fancy {
+    text-decoration: underline overline black;
+    background-color: white;
+}
